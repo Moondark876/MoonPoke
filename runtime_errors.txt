@@ -1,0 +1,8 @@
+07/06/2022, 09:53 || Converting to "Type" failed for parameter "type".
+07/06/2022, 09:53 || Converting to "Type" failed for parameter "type".
+07/06/2022, 09:54 || Converting to "Type" failed for parameter "type".
+07/06/2022, 10:10 || Invalid type 'normal'
+07/06/2022, 10:12 || Command raised an exception: AttributeError: 'Type' object has no attribute 'title'
+07/06/2022, 10:14 || Command raised an exception: TypeError: 'str' object is not callable
+07/06/2022, 10:27 || Command raised an exception: HTTPException: 400 Bad Request (error code: 50035): Invalid Form Body
+In embeds.0.fields.2.value: This field is required
