@@ -57,6 +57,6 @@ async def type(ctx, *, type: utils.TypeCheck):
     await ctx.send(embed=embed)
     
 client.run(os.environ['TOKEN'])
-
+#test
 
     
