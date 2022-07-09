@@ -6,3 +6,17 @@
 07/06/2022, 10:14 || Command raised an exception: TypeError: 'str' object is not callable
 07/06/2022, 10:27 || Command raised an exception: HTTPException: 400 Bad Request (error code: 50035): Invalid Form Body
 In embeds.0.fields.2.value: This field is required
+07/06/2022, 11:32 || Command raised an exception: AttributeError: module 'utils' has no attribute 'Type'
+07/06/2022, 11:34 || Invalid type 'water'
+07/06/2022, 11:42 || Invalid type 'a'
+07/06/2022, 11:42 || Invalid type 'a'
+07/06/2022, 11:42 || type is a required argument that is missing.
+07/06/2022, 11:43 || Invalid type 'a'
+07/06/2022, 11:43 || type is a required argument that is missing.
+07/06/2022, 02:01 || Invalid type 'ic'
+07/06/2022, 02:02 || type is a required argument that is missing.
+07/06/2022, 02:02 || Command raised an exception: TypeError: Expected discord.Colour, int, or None but received str instead.
+07/06/2022, 02:02 || Command raised an exception: TypeError: Expected discord.Colour, int, or None but received str instead.
+07/06/2022, 02:07 || Command raised an exception: TypeError: Expected discord.Colour, int, or None but received str instead.
+07/06/2022, 02:07 || Command raised an exception: TypeError: Expected discord.Colour, int, or None but received str instead.
+07/06/2022, 02:56 || Command raised an exception: AttributeError: <class 'pokebase.interface.APIResource'> object has no attribute id
