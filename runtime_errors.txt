@@ -1,22 +1,22 @@
-07/06/2022, 09:53 || Converting to "Type" failed for parameter "type".
-07/06/2022, 09:53 || Converting to "Type" failed for parameter "type".
-07/06/2022, 09:54 || Converting to "Type" failed for parameter "type".
-07/06/2022, 10:10 || Invalid type 'normal'
-07/06/2022, 10:12 || Command raised an exception: AttributeError: 'Type' object has no attribute 'title'
-07/06/2022, 10:14 || Command raised an exception: TypeError: 'str' object is not callable
-07/06/2022, 10:27 || Command raised an exception: HTTPException: 400 Bad Request (error code: 50035): Invalid Form Body
-In embeds.0.fields.2.value: This field is required
-07/06/2022, 11:32 || Command raised an exception: AttributeError: module 'utils' has no attribute 'Type'
-07/06/2022, 11:34 || Invalid type 'water'
-07/06/2022, 11:42 || Invalid type 'a'
-07/06/2022, 11:42 || Invalid type 'a'
-07/06/2022, 11:42 || type is a required argument that is missing.
-07/06/2022, 11:43 || Invalid type 'a'
-07/06/2022, 11:43 || type is a required argument that is missing.
-07/06/2022, 02:01 || Invalid type 'ic'
-07/06/2022, 02:02 || type is a required argument that is missing.
-07/06/2022, 02:02 || Command raised an exception: TypeError: Expected discord.Colour, int, or None but received str instead.
-07/06/2022, 02:02 || Command raised an exception: TypeError: Expected discord.Colour, int, or None but received str instead.
-07/06/2022, 02:07 || Command raised an exception: TypeError: Expected discord.Colour, int, or None but received str instead.
-07/06/2022, 02:07 || Command raised an exception: TypeError: Expected discord.Colour, int, or None but received str instead.
-07/06/2022, 02:56 || Command raised an exception: AttributeError: <class 'pokebase.interface.APIResource'> object has no attribute id
+07/11/2022, 06:30 || Command raised an exception: KeyError: 'generation'
+07/11/2022, 06:33 || Command raised an exception: IndexError: list index out of range
+07/11/2022, 06:34 || Command raised an exception: TypeError: list indices must be integers or slices, not str
+07/11/2022, 06:36 || Command raised an exception: IndexError: list index out of range
+07/11/2022, 06:44 || Command raised an exception: TypeError: list indices must be integers or slices, not str
+07/11/2022, 07:39 || Command raised an exception: TypeError: argument of type 'NoneType' is not iterable
+07/11/2022, 08:02 || Command raised an exception: AttributeError: 'function' object has no attribute 'name'
+07/11/2022, 08:05 || Converting to "Command" failed for parameter "command".
+07/11/2022, 08:05 || Converting to "Command" failed for parameter "command".
+07/11/2022, 08:05 || Converting to "Command" failed for parameter "command".
+07/11/2022, 08:14 || Command raised an exception: AttributeError: 'str' object has no attribute 'help'
+07/11/2022, 08:14 || Command raised an exception: AttributeError: 'str' object has no attribute 'help'
+07/12/2022, 01:02 || Command raised an exception: TypeError: __init__() should return None, not 'coroutine'
+07/12/2022, 01:08 || Command raised an exception: TypeError: __init__() should return None, not 'coroutine'
+07/12/2022, 01:15 || Command raised an exception: TypeError: cannot unpack non-iterable coroutine object
+07/12/2022, 01:16 || Command raised an exception: TypeError: 'coroutine' object is not subscriptable
+07/12/2022, 01:24 || Command raised an exception: TypeError: APIResource.__init__() missing 2 required positional arguments: 'endpoint' and 'name_or_id'
+07/12/2022, 01:26 || Command raised an exception: TypeError: APIResource.__init__() missing 2 required positional arguments: 'endpoint' and 'name_or_id'
+07/12/2022, 01:32 || Command raised an exception: TypeError: APIResource.__init__() missing 2 required positional arguments: 'endpoint' and 'name_or_id'
+07/12/2022, 01:34 || Command raised an exception: TypeError: APIResource.__init__() missing 2 required positional arguments: 'endpoint' and 'name_or_id'
+07/12/2022, 02:00 || Command raised an exception: TypeError: APIResource.__new__() got an unexpected keyword argument 'custom'
+07/12/2022, 02:04 || Command raised an exception: ValueError: the name or id '{'custom': {'location_area_encounters': <function pokemon.<locals>.get_location_area_encounters at 0x00000190DA43B7F0>}}' could not be converted

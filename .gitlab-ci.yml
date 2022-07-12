@@ -1,0 +1,8 @@
+pages:
+  stage: deploy
+  - cp -r docs/. public
+  artifacts:
+    paths:
+    - public
+  only:
+  - main
